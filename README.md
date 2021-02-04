@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=prashanttripathii&color=0AEEE7) 
+![](https://komarev.com/ghpvc/?username=prashanttripathii&color=8A0857) 
 
 
 <!--
